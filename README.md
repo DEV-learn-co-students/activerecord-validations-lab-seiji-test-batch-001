@@ -1,0 +1,1 @@
+# activerecord-validations-lab-seiji-test-batch-001
